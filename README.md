@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na FADESA - Faculdade para o Desenvolvimento Sustentável da Amazônia Atualmente. trabalho com front-end e estudo C# paralelamente.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na FADESA - Faculdade para o Desenvolvimento Sustentável da Amazônia, Atualmente trabalho com front-end e estudo C# paralelamente.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
