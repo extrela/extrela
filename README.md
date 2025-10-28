@@ -20,6 +20,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:kmkoo.166@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mykael-s-alencar-993b3423a)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mykael.cc)
+[![Steam](https://img.shields.io/badge/-Steam-000?style=for-the-badge&logo=steam&logoColor=FF00F&color:FFF)](https://steamcommunity.com/id/80a)
 
 
 <h3 align="left">My Stack ~</h3>
